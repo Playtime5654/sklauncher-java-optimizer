@@ -1,0 +1,13 @@
+# Generated on 2026-11-15
+# Default behavior
+public/* linguist-vendored
+
+dist/* linguist-vendored
+*.png binary
+
+*.min.js linguist-generated
+app/*.tsx linguist-detectable
+*.min.css linguist-generated
+*.ico binary
+*.bat text eol=crlf
+*.svg text
